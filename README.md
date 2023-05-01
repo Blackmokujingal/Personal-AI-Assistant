@@ -1,7 +1,7 @@
 Meet Matcha ! The personal AI assistant
 
 This personal assistant use OpenAI model and IBM Watson's NLU
-And is able to do text-to-speech/speech-to-text using the user's microphone
+and is able to do text-to-speech/speech-to-text using the user's microphone
 
 
 
